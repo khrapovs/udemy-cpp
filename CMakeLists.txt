@@ -3,4 +3,4 @@ project(udemy_cpp)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(udemy_cpp functions/ex23_default_arguments.cpp)
+add_executable(udemy_cpp functions/ex24_calculating_area.cpp)
