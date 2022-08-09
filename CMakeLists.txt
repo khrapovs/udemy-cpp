@@ -3,4 +3,4 @@ project(udemy_cpp)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(udemy_cpp functions/function_signatures_fahrenheit.cpp)
+add_executable(udemy_cpp functions/ex22_function_signatures_fahrenheit.cpp)
