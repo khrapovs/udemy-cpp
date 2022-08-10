@@ -3,4 +3,4 @@ project(udemy_cpp)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(udemy_cpp functions/ex26_guest_list_reference.cpp)
+add_executable(udemy_cpp functions/ex27_save_a_penny.cpp)
