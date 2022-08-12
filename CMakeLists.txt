@@ -3,4 +3,4 @@ project(udemy_cpp)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(udemy_cpp sec13_oop/ex28_dog.cpp sec13_oop/Dog.h)
+add_executable(udemy_cpp sec13_oop/ex29_dog/ex29_dog.cpp sec13_oop/ex29_dog/Dog.h)
